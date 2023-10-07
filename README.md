@@ -3,6 +3,8 @@ Graph neural network
 
 # references
 
+[what-are-graph-neural-networks](https://blogs.nvidia.com/blog/2022/10/24/what-are-graph-neural-networks/)
+
 [Tutorial 7 (JAX): Graph Neural Networks](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial7/GNN_overview.html)
 
 [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
