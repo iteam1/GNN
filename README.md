@@ -1,7 +1,17 @@
 # GNN
 Graph neural network
 
+# installation
+
+[install pytorch_geometric (pyG)](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html): `pip install torch_geometric`
+
 # references
+
+[pytorch_geometric home page](https://pyg.org/)
+
+[pytorch_geometric github](https://github.com/pyg-team/pytorch_geometric)
+
+[Colab Notebooks and Video Tutorials](https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html)
 
 [what-are-graph-neural-networks](https://blogs.nvidia.com/blog/2022/10/24/what-are-graph-neural-networks/)
 
